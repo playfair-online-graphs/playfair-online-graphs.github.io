@@ -1,0 +1,14 @@
+{
+  "short_name": "PlayFair",
+  "name": "Play Fair Scientific and Business Graphing Online",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "type": "svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
