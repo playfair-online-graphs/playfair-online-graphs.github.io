@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec83864c.css",
-    "main.js": "/static/js/main.f64f5b3b.js",
+    "main.css": "/static/css/main.5e8b9b68.css",
+    "main.js": "/static/js/main.1f72b352.js",
     "static/js/787.5e7bdddb.chunk.js": "/static/js/787.5e7bdddb.chunk.js",
     "static/media/latinmodern-math.otf": "/static/media/latinmodern-math.ba2af73827ec5f808cd7.otf",
     "index.html": "/index.html",
-    "main.ec83864c.css.map": "/static/css/main.ec83864c.css.map",
-    "main.f64f5b3b.js.map": "/static/js/main.f64f5b3b.js.map",
+    "main.5e8b9b68.css.map": "/static/css/main.5e8b9b68.css.map",
+    "main.1f72b352.js.map": "/static/js/main.1f72b352.js.map",
     "787.5e7bdddb.chunk.js.map": "/static/js/787.5e7bdddb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec83864c.css",
-    "static/js/main.f64f5b3b.js"
+    "static/css/main.5e8b9b68.css",
+    "static/js/main.1f72b352.js"
   ]
 }
