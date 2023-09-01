@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.555b1ddf.css",
-    "main.js": "/static/js/main.6ce55b0e.js",
+    "main.css": "/static/css/main.6c9c6c3f.css",
+    "main.js": "/static/js/main.6b9c4a8a.js",
     "static/js/787.5e7bdddb.chunk.js": "/static/js/787.5e7bdddb.chunk.js",
     "static/media/latinmodern-math.otf": "/static/media/latinmodern-math.ba2af73827ec5f808cd7.otf",
+    "static/media/BrightLogo.svg": "/static/media/BrightLogo.5d9f4a4c9005daa044d0e74c410f6f50.svg",
     "index.html": "/index.html",
-    "main.555b1ddf.css.map": "/static/css/main.555b1ddf.css.map",
-    "main.6ce55b0e.js.map": "/static/js/main.6ce55b0e.js.map",
+    "main.6c9c6c3f.css.map": "/static/css/main.6c9c6c3f.css.map",
+    "main.6b9c4a8a.js.map": "/static/js/main.6b9c4a8a.js.map",
     "787.5e7bdddb.chunk.js.map": "/static/js/787.5e7bdddb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.555b1ddf.css",
-    "static/js/main.6ce55b0e.js"
+    "static/css/main.6c9c6c3f.css",
+    "static/js/main.6b9c4a8a.js"
   ]
 }
