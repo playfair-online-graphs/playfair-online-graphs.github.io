@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6c9c6c3f.css",
-    "main.js": "/static/js/main.6b9c4a8a.js",
+    "main.js": "/static/js/main.9aac1cd5.js",
     "static/js/787.5e7bdddb.chunk.js": "/static/js/787.5e7bdddb.chunk.js",
     "static/media/latinmodern-math.otf": "/static/media/latinmodern-math.ba2af73827ec5f808cd7.otf",
     "static/media/BrightLogo.svg": "/static/media/BrightLogo.5d9f4a4c9005daa044d0e74c410f6f50.svg",
     "index.html": "/index.html",
     "main.6c9c6c3f.css.map": "/static/css/main.6c9c6c3f.css.map",
-    "main.6b9c4a8a.js.map": "/static/js/main.6b9c4a8a.js.map",
+    "main.9aac1cd5.js.map": "/static/js/main.9aac1cd5.js.map",
     "787.5e7bdddb.chunk.js.map": "/static/js/787.5e7bdddb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c9c6c3f.css",
-    "static/js/main.6b9c4a8a.js"
+    "static/js/main.9aac1cd5.js"
   ]
 }
